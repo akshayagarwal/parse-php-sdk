@@ -55,6 +55,7 @@ Add the "use" declarations where you'll be using the classes.  For all of the
 sample code in this file:
 
 ```php
+use Parse\ParseClient
 use Parse\ParseObject;
 use Parse\ParseQuery;
 use Parse\ParseACL;
